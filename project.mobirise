@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "fastbet.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -172,7 +172,12 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background mbr-after-navbar jarallax\" style=\"background-image: url(@PROJECT_PATH@/assets/images/bg1920x450-2000x562-8.jpg); padding-top: 120px; padding-bottom: 0px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.6; background-color: rgb(255, 255, 255);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/hunter-1400x1040-7.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left\">\n                  \n                  \n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_styles": {
@@ -219,15 +224,6 @@
           "text2": "<h2>NON NZD CASINOS</h2><p>We also host a range of Non NZD Casinos which offer other currencies to play with.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">This just means that when you play at these casinos your NZD will be converted into the currency of your choosing on sign up before you start playing.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">All NZ slot players are welcome to play at these casinos also.</span></p>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px",
-              "color": "#fac51c"
-            }
-          },
           "_tags": [
             "Theme"
           ],
@@ -254,7 +250,12 @@
           },
           "title": "NO DEPOSIT FREE SPINS",
           "text": "<p>ALL of our online casinos offer No Deposit Free Spins just for signing up too. These special offers are available to give you the opportunity to experience the look and feel of the online casinos, to see if it meets your standards before you decide to play there for real money.</p><p><br></p><p>The best thing about No Deposit Free Spins is that if you are able to meet the \"Wagering Requirements\", winnings from the No Deposit Free Spins will be converted into real money that you can withdraw or continue playing with!</p><p><br></p><p>In some cases the No Deposit Free Spins have zero wagering requirements, or are WAGER FREE. This means the winnings from your free spins will be converted into real money instantly! That money becomes yours without any terms or conditions.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FIND OUT MORE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FIND OUT MORE</a>",
+          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background jarallax\" style=\"background-image: url(@PROJECT_PATH@/assets/images/ndfs-2000x902-32.jpg); padding-top: 120px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"90\">NO DEPOSIT FREE SPINS</h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"91\"><p>ALL of our online casinos offer No Deposit Free Spins just for signing up too. These special offers are available to give you the opportunity to experience the look and feel of the online casinos, to see if it meets your standards before you decide to play there for real money.</p><p><br></p><p>The best thing about No Deposit Free Spins is that if you are able to meet the \"Wagering Requirements\", winnings from the No Deposit Free Spins will be converted into real money that you can withdraw or continue playing with!</p><p><br></p><p>In some cases the No Deposit Free Spins have zero wagering requirements, or are WAGER FREE. This means the winnings from your free spins will be converted into real money instantly! That money becomes yours without any terms or conditions.</p></div>\n                <div><a class=\"btn btn-danger mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"92\">FIND OUT MORE</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title, p {\n\tcolor: #fff;\n}\n.mbr-section-title {\n\tfont-size: 36px;\n\tcolor: #fac51c;\n}\n",
+          "_customTemplate": true
         },
         {
           "_tags": [
