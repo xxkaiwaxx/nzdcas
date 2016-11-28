@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.8.8",
-    "uniqCompNum": 153,
+    "uniqCompNum": 161,
     "versionPublish": "3.9.0",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -36,7 +36,7 @@
         "title": "",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "",
+        "footer_custom": "<script>\n$('.jarallax').jarallax({\nimgWidth: 3,\nimgHeight: 1,\nspeed: 0.5})\n</script>",
         "html_before": ""
       },
       "components": [
@@ -251,7 +251,7 @@
           "title": "NO DEPOSIT FREE SPINS",
           "text": "<p>ALL of our online casinos offer No Deposit Free Spins just for signing up too. These special offers are available to give you the opportunity to experience the look and feel of the online casinos, to see if it meets your standards before you decide to play there for real money.</p><p><br></p><p>The best thing about No Deposit Free Spins is that if you are able to meet the \"Wagering Requirements\", winnings from the No Deposit Free Spins will be converted into real money that you can withdraw or continue playing with!</p><p><br></p><p>In some cases the No Deposit Free Spins have zero wagering requirements, or are WAGER FREE. This means the winnings from your free spins will be converted into real money instantly! That money becomes yours without any terms or conditions.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FIND OUT MORE</a>",
-          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background jarallax\" style=\"background-image: url(@PROJECT_PATH@/assets/images/ndfs-2000x902-32.jpg); padding-top: 120px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"90\">NO DEPOSIT FREE SPINS</h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"91\"><p>ALL of our online casinos offer No Deposit Free Spins just for signing up too. These special offers are available to give you the opportunity to experience the look and feel of the online casinos, to see if it meets your standards before you decide to play there for real money.</p><p><br></p><p>The best thing about No Deposit Free Spins is that if you are able to meet the \"Wagering Requirements\", winnings from the No Deposit Free Spins will be converted into real money that you can withdraw or continue playing with!</p><p><br></p><p>In some cases the No Deposit Free Spins have zero wagering requirements, or are WAGER FREE. This means the winnings from your free spins will be converted into real money instantly! That money becomes yours without any terms or conditions.</p></div>\n                <div><a class=\"btn btn-danger mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"92\">FIND OUT MORE</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background jarallax\" style=\"background-image: url(@PROJECT_PATH@/assets/images/ndfs-2000x902-32.jpg); padding-top: 120px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"93\">NO DEPOSIT FREE SPINS</h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"94\"><p>ALL of our online casinos offer No Deposit Free Spins just for signing up too. These special offers are available to give you the opportunity to experience the look and feel of the online casinos, to see if it meets your standards before you decide to play there for real money.</p><p><br></p><p>The best thing about No Deposit Free Spins is that if you are able to meet the \"Wagering Requirements\", winnings from the No Deposit Free Spins will be converted into real money that you can withdraw or continue playing with!</p><p><br></p><p>In some cases the No Deposit Free Spins have zero wagering requirements, or are WAGER FREE. This means the winnings from your free spins will be converted into real money instantly! That money becomes yours without any terms or conditions.</p></div>\n                <div><a class=\"btn btn-danger mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"95\">FIND OUT MORE</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title, p {\n\tcolor: #fff;\n}\n.mbr-section-title {\n\tfont-size: 36px;\n\tcolor: #fac51c;\n}\n",
