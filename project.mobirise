@@ -3878,11 +3878,6 @@
             "Theme"
           ],
           "_name": "header1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
           "_anchor": "header1-3h",
           "_params": {
             "parallax": true,
@@ -3905,7 +3900,12 @@
           },
           "title": "FULL SCREEN INTRO",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VISIT FASTBET</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"nzd-casinos.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; NZD CASINOS &nbsp; &nbsp;&nbsp;</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VISIT FASTBET</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"nzd-casinos.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; NZD CASINOS &nbsp; &nbsp;&nbsp;</a> ",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background jarallax\" style=\"background-image: url(@PROJECT_PATH@/assets/images/fastbetbg-2000x943-70-2000x943-41.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(0, 0, 0);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    \n                    \n                    <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-warning mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"19\">VISIT FASTBET</a> <a class=\"btn btn-lg btn-danger mbr-editable-button\" href=\"nzd-casinos.html\" code-editable-id=\"20\">&nbsp; &nbsp; NZD CASINOS &nbsp; &nbsp;&nbsp;</a> </div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    \n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".btn {\n\tfont-size: 22px;\n}\n",
+          "_customTemplate": true
         }
       ]
     },
